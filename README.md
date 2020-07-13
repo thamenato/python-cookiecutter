@@ -1,3 +1,3 @@
-# {{cookiecutter.project_slug}}
+# Python Cookiecutter 
 
-{{cookiecutter.project_description}}
+My personal python cookiecutter for projects
